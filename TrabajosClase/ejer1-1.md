@@ -1,10 +1,10 @@
-*Ejercicio Tema 1:*
+**Ejercicio Tema 1:**
 ===================
 
 					
 Buscar información sobre las tareas o servicios web para los que se usan más los programas que comentamos al principio de la sesión:
 
-	•	apache: 
+	•	apache:
 	===============
 Apache es un poderoso servidor web y es completamente libre, ya que es un software Open Source y con licencia GPL. Una de las ventajas más grandes de Apache, es que es un servidor web multiplataforma, es decir, puede trabajar con diferentes sistemas operativos y mantener su excelente rendimiento. 
 Apache es utilizado principalmente, para realizar servicio a páginas web, ya sean estáticas o dinámicas. Este estupendo servidor se integra a la perfección con otras aplicaciones, creando el famoso paquete XAMP con Perl, Python, MySQL y PHP, junto a cualquier sistema operativo, que por lo general es Linux, Windows o Mac OS.
@@ -34,9 +34,9 @@ Node resuelve este problema cambiando la forma en que se realiza una conexión c
 
 Bibliografía:
 
-<a href = "http://culturacion.com/que-es-apache/">
-<a href = "http://blog.desdelinux.net/nginx-una-interesante-alternativa-a-apache/#">
-<a href = "https://www.ibm.com/developerworks/ssa/opensource/library/os-nodejs/">
-<a href = "https://es.wikipedia.org/wiki/Cherokee_(servidor_web)">
-<a href = "https://es.wikipedia.org/wiki/Thttpd">
-<a href = "http://barrapunto.com/articles/05/10/15/1142235.shtml">
+<a href = "http://culturacion.com/que-es-apache/"> http://culturacion.com/que-es-apache/</a>
+<a href = "http://blog.desdelinux.net/nginx-una-interesante-alternativa-a-apache/#"> http://blog.desdelinux.net/nginx-una-interesante-alternativa-a-apache/#</a>
+<a href = "https://www.ibm.com/developerworks/ssa/opensource/library/os-nodejs/"> https://www.ibm.com/developerworks/ssa/opensource/library/os-nodejs/</a>
+<a href = "https://es.wikipedia.org/wiki/Cherokee_(servidor_web)"> https://es.wikipedia.org/wiki/Cherokee_(servidor_web)</a>
+<a href = "https://es.wikipedia.org/wiki/Thttpd"> https://es.wikipedia.org/wiki/Thttpd</a>
+<a href = "http://barrapunto.com/articles/05/10/15/1142235.shtml"> http://barrapunto.com/articles/05/10/15/1142235.shtml</a>
