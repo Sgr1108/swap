@@ -4,7 +4,7 @@
 
 Empezamos arrancando la máquina servidora que vamos a configurar.
 Generamos el certificado autofirmado con las ordenes que nos proporciona el guión de prácticas.
-y editamos el archivo de configuración /etc/apache2/sites-available/default-ssl y reiniciamos el el servicio apache.
+Editamos el archivo de configuración /etc/apache2/sites-available/default-ssl y reiniciamos el el servicio apache.
 
 Hacemos curl para comprobar el funcionamiento.
 
